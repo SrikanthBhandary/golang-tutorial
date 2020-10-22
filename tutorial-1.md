@@ -1,6 +1,8 @@
 # Learn GoLang #
 Welcome to the quick tutorial on golang basics. Topics covered here are for the absolute beginners.  Intermediate or professional ones can also make use of it. Unlike other tutorials, we are not going to start with the legacy hello world program. We will start something with something advanced. Saying that, let's get started!
 
+Since I want to keep the tutorial shorter, I will not take you to the installation tour of golang. There are a lot of good articles already available in the market. You can follow the following link https://golang.org/doc/install for the installation guide.
+
 Let's start with the basics:
 
 ## Package: ##
